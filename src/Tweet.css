@@ -1,0 +1,21 @@
+.tweet {
+    border: 1px solid black;
+    padding: 10px;
+    margin: 10px 0;
+    border-radius: 5px;
+    background-color: black;
+  }
+
+  .name,
+  .username,
+  .date {
+    color: purple; 
+    display: inline-block;
+    margin: 0 10px;
+    font-weight: 800;
+  }
+
+  .msg{
+    margin: 10px 10px;
+    color: rgb(46, 207, 207);
+  }
